@@ -1,0 +1,8 @@
+{
+    "First_Name": "Nick",
+    "Last_Name": "Smith",
+    "Skills": ["Alligator wrestling", "teaching", "Python", "being a so-so parent"],
+    "age": 34,
+    "favorite_foods": ["Eel", "Pizza", "Okonomiyaki", "Salad"],
+    "hobbies": ["Scuba Diving", "Traveling", "Cafes", "eating new food"]
+  }
