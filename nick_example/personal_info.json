@@ -1,8 +1,8 @@
 {
-    "First_Name": "Nick",
-    "Last_Name": "Smith",
-    "Skills": ["Alligator wrestling", "teaching", "Python", "being a so-so parent"],
+    "First_Name": "Lewis",
+    "Last_Name": "Baker",
+    "Skills": ["alligator charming", "teaching", "Flutter", "not being a parent"],
     "age": 34,
-    "favorite_foods": ["Eel", "Pizza", "Okonomiyaki", "Salad"],
-    "hobbies": ["Scuba Diving", "Traveling", "Cafes", "eating new food"]
+    "favorite_foods": ["meat pies", "Pizza", "ramen", "Quinoa"],
+    "hobbies": ["video gaming", "traveling", "cycling", "eating old food"]
   }
