@@ -1,8 +1,8 @@
 {
     "First_Name": "Lewis",
     "Last_Name": "Baker",
-    "Skills": ["alligator charming", "teaching", "Flutter", "not being a parent"],
+    "Skills": ["alligator riding", "teaching", "Flutter", "not being a parent"],
     "age": 34,
+    "team":"Dojo",
     "favorite_foods": ["meat pies", "Pizza", "ramen", "Quinoa"],
-    "hobbies": ["video gaming", "traveling", "cycling", "eating old food"]
   }
