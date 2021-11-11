@@ -1,8 +1,8 @@
 {
-    "First_Name": "Lewis",
-    "Last_Name": "Baker",
-    "Skills": ["awaergｒｇwki4tter", "not being a parent"],
-    "age": 34,
-    "team":"Dojo",
-    "favorite_foods": ["meat sandwich", "Pizza", "ramen", "Quinoa"],
-  }
+  "First_Name": "Lewis",
+  "Last_Name": "Baker",
+  "Skills": ["alligator rustling", "teaching", "Flutter", "not being a parent"],
+  "age": 34,
+  "team":"Dojo",
+  "favorite_foods": ["meat & potatoes", "pizza", "ramen", "Quinoa"],
+}
