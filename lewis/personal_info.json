@@ -1,18 +1,8 @@
 {
-<<<<<<< HEAD
-  "First_Name": "Lewis",
-  "Last_Name": "Baker",
-  "Skills": ["alligator riding", "teaching", "Flutter", "not being a parent"],
-  "age": 34,
-  "team":"Dojo",
-  "favorite_foods": ["meat & potatoes", "pizza", "ramen", "Quinoa"],
-}
-=======
     "First_Name": "Lewis",
     "Last_Name": "Baker",
-    "Skills": ["alligator riding", "teaching", "Flutter", "not being a parent"],
+    "Skills": ["alligator rustling", "teaching", "Flutter", "not being a parent"],
     "age": 34,
     "team":"Dojo",
     "favorite_foods": ["meat & potatoes", "pizza", "ramen", "Quinoa"],
   }
->>>>>>> bb39e304bb657ee0e5db7d1e24cb1d585f7d9582
